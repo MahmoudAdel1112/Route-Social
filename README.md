@@ -10,7 +10,7 @@ A modern social media web application built with React, Vite, and Material-UI. T
 
 Route Social is a feature-rich social platform designed to provide a seamless and engaging user experience. It serves as a portfolio project demonstrating proficiency in modern frontend technologies, including state management with React Query, form handling with React Hook Form, and client-side routing with React Router.
 
-![Screenshot Placeholder](./screenshot.png) <!-- TODO: Add a screenshot of your project -->
+![Screenshot of the project](./public/screenshot-2025-08-30.png)
 
 ### Features
 
